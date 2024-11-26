@@ -69,4 +69,6 @@ This hotel booking management system offers a simple yet functional approach to 
 ## Contact
 Thank you for taking the time to review my project. I appreciate your feedback and suggestions. If you have any further questions or comments, feel free to reach out. I look forward to improving and learning more in this journey!
 
+Email: [p230577@cfd.nu.edu.pk](mailto:p230577@cfd.nu.edu.pk)
+
 Have a great day ahead!
